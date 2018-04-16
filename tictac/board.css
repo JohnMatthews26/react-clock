@@ -25,3 +25,33 @@ body {
     height: 100%;
     border: 1px solid black;
 }
+
+.main-div {
+    display: flex;
+    flex-direction: row;
+}
+
+.player-select {
+    height: 100px;
+    width: 150px;
+    border: 5px solid black;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.xo {
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: rebeccapurple;
+    font-size: -webkit-xxx-large;
+}
+
+div#X {
+    background: green;
+}
