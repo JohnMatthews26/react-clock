@@ -24,6 +24,12 @@ body {
 .row {
     height: 100%;
     border: 1px solid black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: -webkit-xxx-large;
+    color: blueviolet;
+    justify-content: center;
 }
 
 .main-div {
